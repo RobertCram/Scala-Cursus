@@ -1,0 +1,11 @@
+{
+	"name": "Scala",
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"scalameta.metals"
+			]
+		}
+	}
+}
