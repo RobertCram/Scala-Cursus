@@ -1,8 +1,15 @@
-## sbt project compiled with Scala 3
+# WEEK 1: FIREWORKS
 
-### Usage
+https://www.coursera.org/learn/effective-scala/programming/MT64m/fireworks/instructions
 
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
+## Installing Quartz
+To get the Fireworks showing up on the host screen, an X11 server should be installed on the Mac. XQuartz can be downloaded here: https://www.xquartz.org
 
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+
+Make sure the security settings look like this (don't forget to restart after changing the settings!):
+
+
+<img src="./XQuartz_setting.jpg" width=500>
+
+
+
