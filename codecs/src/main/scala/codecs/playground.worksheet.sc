@@ -49,11 +49,3 @@ val jsonContacts = listEncoder1.encode(Contacts(List(p1)))
 listDecoder1.decode(jsonContacts)
 
 ObjectEncoder.field[Contacts]("people")
-
-
-val fa = Future(println("A"))
-val fb = Future(println("B"))
-for
-  _ <- fa
-  _ <- fb
-yield ()
