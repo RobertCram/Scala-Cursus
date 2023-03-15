@@ -25,3 +25,4 @@ target/
 
 # general
 *.class
+wikigraph/enwiki-dataset/smallwiki.db
